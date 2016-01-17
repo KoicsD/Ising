@@ -1,0 +1,1 @@
+!Ising 16 800 800 Teszt_N16_P800_Gen800.txt
